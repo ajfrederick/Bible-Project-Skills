@@ -1,0 +1,15 @@
+{
+    "firstName" : "Andrew",
+    "lastName" : "Frederick",
+    "email" : "andrewjfrederick@gmail.com",
+    "newAddress" : {
+        "addressId " : null,
+        "street1" : "123 Plane Lane",
+        "street2" : null,
+        "city" : "Springfiled",
+        "state" : "AZ",
+        "zip" : "12345",
+        "country" : "US",
+        "isDefault" : false
+    }
+}
